@@ -1,2 +1,12 @@
-# Eylaverse
-Terminal Station of the Puzzlehunt "Eylaverse"
+# META：Alxverse
+
+Eyla：
+>旅途已经到了尾声，这是解开绳结的最后一步。
+>
+>再重走一遍刚刚的几步，就能到达终点。一切必要的工具都在这个目录里了。
+>
+>我在现实层等待你。
+
+Alxv
+
+***
